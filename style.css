@@ -252,10 +252,15 @@ input[type="radio"]{
     font-size: 14px;
     margin-bottom: 10px;
 }
+.footer .row a:hover {
+    color: #fff; 
+    text-decoration: underline; 
+    font-size: 14px;
+}
 
 .footer .row{
     align-items: flex-start;
-    padding: 10px 0;
+    padding: 10px 1px;
     cursor: pointer;   
 }
 
